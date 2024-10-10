@@ -1,0 +1,13 @@
+header {
+  background-color: #f1f4f8;
+  color: #007BFF;
+  padding: 20px;
+  text-align: center;
+  font-size: 2rem;
+  border-radius: 8px 8px 0 0;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+header h1, header h2, header h3 {
+  color: #007BFF !important;
+}
