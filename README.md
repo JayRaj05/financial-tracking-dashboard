@@ -33,3 +33,52 @@ Make sure you have the following installed:
 
    ```bash
    git clone https://github.com/JayRaj05/financial-tracking-dashboard.git
+Navigate to the backend directory:
+
+bash
+Copy code
+cd financial-tracking-dashboard/backend
+Build the project using Maven:
+
+bash
+Copy code
+mvn clean install
+Run the Spring Boot application:
+
+bash
+Copy code
+mvn spring-boot:run
+Frontend Setup (React)
+Navigate to the frontend directory:
+
+bash
+Copy code
+cd ../frontend
+Install the required packages:
+
+bash
+Copy code
+npm install
+Start the React application:
+
+bash
+Copy code
+npm start
+Usage
+Open your web browser and go to http://localhost:3000 to access the frontend application.
+You can start adding transactions, setting budget goals, and viewing your financial overview.
+Contributing
+If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+markdown
+Copy code
+
+### Instructions for Updating Your README.md
+
+1. **Copy the above text**.
+2. Open your README.md file in your code editor.
+3. **Paste the copied content** into the file.
+4. Save the changes.
